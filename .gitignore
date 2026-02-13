@@ -28,6 +28,7 @@ INSTRUCTOR_NOTES.md
 INSTRUCTOR_NOTES_DETAILED.md
 INSTRUCTOR_NOTES_GITBOOK.md
 THEORY.md
+HANDBOOK.md
 
 # Solution files (students should implement themselves)
 *.solution.*
