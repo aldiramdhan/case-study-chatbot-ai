@@ -171,16 +171,6 @@ This project is licensed under the MIT License - feel free to use it for learnin
 
 ---
 
-## 💬 Support
-
-Butuh bantuan atau punya pertanyaan?
-
-* 📖 Baca [HANDBOOK.md](HANDBOOK.md) untuk detailed guide
-* 💡 Check troubleshooting section di handbook
-* 🐛 Report bugs via GitHub Issues
-
----
-
 **Happy Learning! 🚀**
 
 *Focus bukan di "menghafal syntax", tapi **memahami KENAPA dan KAPAN** menggunakan setiap hook.*
